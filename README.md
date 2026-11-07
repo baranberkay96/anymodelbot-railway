@@ -1,6 +1,6 @@
 # Deploy and Host AnyModelBot with Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/anymodelbot-v01-personal-ai-bots-on-any-model?referralCode=20H68q)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/anymodelbot-v01-personal-ai-bots-on-any-?referralCode=20H68q)
 
 AnyModelBot is an open-source (MIT) app for personal AI bots. Each bot has its own persona, model, workspace and memory, works on tasks in the background and answers you in the browser or in Telegram, Slack, Discord, Feishu or WeChat. This community template runs AnyModelBot v0.1.23 as an always-on server, protected by an access token from the first minute.
 
