@@ -1,5 +1,6 @@
 {
-  "name": "AnyModelBot v0.1 Personal AI Bots on Any Model",
+  "name": "AnyModelBot Personal AI Bots on Any Model",
+  "idSeed": "AnyModelBot v0.1 Personal AI Bots on Any Model",
   "description": "Your own open-source AI bots with memory, background tasks and chat apps.",
   "category": "AI/ML",
   "tags": [

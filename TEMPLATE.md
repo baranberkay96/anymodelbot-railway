@@ -1,10 +1,10 @@
-# AnyModelBot v0.1 Personal AI Bots on Any Model: Railway template spec
+# AnyModelBot Personal AI Bots on Any Model: Railway template spec
 
 ## Listing
 
 | Field | Value |
 |---|---|
-| Name | **AnyModelBot v0.1 Personal AI Bots on Any Model** (`v0.1` from release `v0.1.23`, the pinned build; no third-party product names) |
+| Name | **AnyModelBot Personal AI Bots on Any Model** (`v0.1` from release `v0.1.23`, the pinned build; no third-party product names) |
 | Description | Your own open-source AI bots with memory, background tasks and chat apps. (73 chars) |
 | Category | AI/ML |
 | Tags | anymodelbot, ai-agents, ai-bots, personal-assistant, telegram-bot, discord-bot, slack-bot, self-hosted, grok-bot-alternative |
